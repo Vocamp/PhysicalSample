@@ -1,0 +1,12 @@
+Some Sample models (e.g. ODM2) give then attributes like Medium.
+Here is waht they say about Sample Medium  
+(It is) The medium in which the sample was collected [e.g. water (Surface Water such as a stream, river, lake, pond, reservoir, ocean ),
+air, sediment, etc.
+
+Source - CUAHSI Community Observations Data Model Working Design Specifications Document
+
+
+MaterialType and Medium may or may not be the same thing (?)
+
+The attribute materialClass:GenericName shall provide a basic classification of the material type of the specimen. 
+EXAMPLE Soil, water, rock, aqueous, liquid, tissue, vegetation, food.
